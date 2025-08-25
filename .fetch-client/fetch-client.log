@@ -1,0 +1,25 @@
+
+16-Aug-2025 22:35:59  error::apiFetch(): Error: write EPROTO 309248:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\..\third_party\boringssl\src\ssl\tls_record.cc:127:
+
+
+16-Aug-2025 22:42:10  error::apiFetch(): Error: write EPROTO 309248:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\..\third_party\boringssl\src\ssl\tls_record.cc:127:
+
+
+16-Aug-2025 22:43:35  error::apiFetch(): Error: write EPROTO 309248:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\..\third_party\boringssl\src\ssl\tls_record.cc:127:
+
+
+16-Aug-2025 22:47:59  error::apiFetch(): Error: write EPROTO 309248:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\..\third_party\boringssl\src\ssl\tls_record.cc:127:
+
+
+16-Aug-2025 22:48:22  error::apiFetch(): Error: write EPROTO 309248:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\..\third_party\boringssl\src\ssl\tls_record.cc:127:
+
+
+16-Aug-2025 22:48:34  error::apiFetch(): Error: write EPROTO 309248:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\..\third_party\boringssl\src\ssl\tls_record.cc:127:
+
+
+16-Aug-2025 23:20:04  error::apiFetch(): Error: write EPROTO 309248:error:100000f7:SSL routines:OPENSSL_internal:WRONG_VERSION_NUMBER:..\..\third_party\boringssl\src\ssl\tls_record.cc:127:
+
+
+18-Aug-2025 23:33:37  error::apiFetch(): AggregateError
+
+18-Aug-2025 23:33:45  error::apiFetch(): AggregateError
